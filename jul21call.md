@@ -43,7 +43,7 @@ Answers:
 Answers:
 1. Tidy the datasets
  1. Smell data: bring together the two datasets (SCF and smellmycity). Try to do this in a way that can be easily updated after our project ends.
- 2. Environmental data: combine data (currently must be downloaded separately)
+ 1. Environmental data: combine data (currently must be downloaded separately)
 2. Leave tools (for tidying data, for running analyses/visualizations) that can be updated after our project ends by non-technical users.
 
 ## Github organization
