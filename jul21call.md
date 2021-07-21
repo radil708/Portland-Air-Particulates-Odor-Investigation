@@ -2,6 +2,7 @@
 
 ## About smellmycity data
 * Oil data: any update on whether we will have access to the paper data from oil barges (tracking their arrival/departure from the port)?
+* Are there questions about this data that you'd like answers to?
 
 ## About environmental data
 * Since this data is more general, it would be helpful to get insights from GPCOG and Sierra Club that would help us focus.
