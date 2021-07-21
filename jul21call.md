@@ -2,6 +2,8 @@
 
 ## About smellmycity data
 * Oil data: any update on whether we will have access to the paper data from oil barges (tracking their arrival/departure from the port)?
+* Besides the oil barges, are there other possible sources of a petroleum-type smell in this area?
+* Can you think of other data that could be useful to identify causes of the odor (e.g. sewage or trash locations/issues)? I found [this for South Portland] (https://www.southportland.org/departments/water-resource-protection/about-us/treatment-systems/pump-station-o-m/) - any other resources like this that you can think of?
 * Are there questions about this data that you'd like answers to?
 
 ## About environmental data
