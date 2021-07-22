@@ -29,7 +29,7 @@ and regulated accordingly.
   * Civilian grab canister results
   * Tom Mikulka monitoring data (for comparison only)
   * Weather patterns
-  * Tank fills and transfers (dependant on access to data)
+  * Tank fills and transfers (dependent on access to data)
   * Individual tank inventory and temperature status
 * Clean the data and make it easily accessible for the general public
 * Create some simple visualizations
