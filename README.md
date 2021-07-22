@@ -2,14 +2,44 @@
 
 ## Project Idea: This Stinks
 
-Problem: Residents of Portland and South Portland, Maine, have been reporting disruptive smells in the air on certain days of the year. The cities use different platforms to report and respond to the problem: a local 311 app, and a popular crowdsourcing app used across the nation. It's been unclear what the source of the smells might be and difficult to understand the extent of the issue on both sides of the Fore River.
+
+Problem: Residents of Portland and South Portland in Maine have been reporting disruptive smells in the air 
+on certain days of the year. 
+South Portland has over 25,500 residents, and is the host of oil, gasoline, and asphalt tanks. 
+These tanks do not have emissions controls and the emissions, in the form of odors, 
+are reported in both South Portland and Portland. 
+Many of the emissions are odorless and toxic, and may or may not correlate with odor complaints. 
+It's been unclear what the source of the smells might be and difficult to understand the extent of the 
+issue on both sides of the Fore River, which separates Portland and South Portland.
+
+The City of South Portland relies on [Smell My City](https://smellmycity.org/) for odor complaints, 
+while Portland relies on [See Click Fix](https://seeclickfix.com/portland_2).
+The Department of Environmental Protection has 
+[9 VOC Canister Monitors](https://www.maine.gov/dep/air/monitoring/spo-sampling-results.html)
+(volatile organic compounds) in Portland and South Portland. 
+The tanks are considered [minor sources of air emissions](https://www.maine.gov/dep/air/permits/minor.html),
+and regulated accordingly.
 
 ### Project goals.
 
 * Coordinate the various data sources
+  * Smell My City odor complaints (South Portland)
+  * See Click Fix odor complaints (Portland)
+  * DEP VOC sampling data
+  * Civilian grab canister results
+  * Tom Mikulka monitoring data (for comparison only)
+  * Weather patterns
+  * Tank fills and transfers (dependant on access to data)
+  * Individual tank inventory and temperature status
 * Clean the data and make it easily accessible for the general public
 * Create some simple visualizations
 * Add additional data from ME DEP (e.g., wind speed, direction, temperature, etc)
+Initial mapping will use compiled data, but the intent is to harvest data in real time to account 
+for established correlations, additional sampling, and continued monitoring. 
+Per [LD163](http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP0119&item=2&snum=130), 
+additional sampling will include: 
+* Fenceline monitoring (continuous)
+* Self reported emissions testing on heated tanks (2x yearly)
 
 ### Project partners
 
