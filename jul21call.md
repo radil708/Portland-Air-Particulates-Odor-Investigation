@@ -52,3 +52,16 @@ Answers:
 
 ## Next steps
 * Wed July 28: two teams touch base. Aim to finish data tidying by then.
+
+
+# Notes from Jul 27 call with Maria, Luke, Prof Bogden
+Feedback from Luke:
+* wants visualizations to better understand complaints, weather patterns, temps, delivery of materials - how it all interacts
+* Ideally, our work will help prepare them for next phase, when oil companies are required to sample twice / year. Continuous fenceline monitoring as well as emissions testing.
+* Tom Mikulka study (look at this) --> he will send info to us
+* If possible, include CDC info on cancer rates and any increased risk in tank areas --> Hani: one possible issue is the recentness of the data (may be hard to say much with 2020 data only)--> DEP data may also be available that could help
+
+Feedback from Prof:
+* Don't delete data from df unless necessary
+* Final presentation:- send images to PPT or readme.md file or webpage --> all that is easy. Put code in directories, then point to those directories as appropriate in a readme.md
+* Maps:plotly.py: have tutorials on putting data on a map (https://plotly.com/python/scatter-plots-on-maps/
