@@ -79,3 +79,4 @@ additional sampling will include:
 
 # Northeastern student projects, Summer 2021 term - links to ipynb notebooks with code
 * [stinky_dataset.ipynb](https://github.com/ds5110/stinky/blob/master/stinky_dataset_jul29.ipynb) -- Use to update df_stinky, table that combines data from SmellMyCity and SeeClickFix
+* [text_analysis_caroline.ipynb](https://github.com/ds5110/stinky/blob/master/text_analysis_caroline.ipynb) -- Example of using tidied data saved as csv files in data folder
