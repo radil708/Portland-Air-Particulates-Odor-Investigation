@@ -1,7 +1,16 @@
 # stinky
 
-## Project Idea: This Stinks
+## Northeastern student projects
 
+Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebooks will open them automatically in Colab).
+
+1. Files for updating data (these notebooks clean and merge raw data, as needed)
+* [stinky_dataset.ipynb](https://github.com/ds5110/stinky/blob/master/stinky_dataset.ipynb) -- Use to update df_stinky, table that combines data from SmellMyCity and SeeClickFix
+
+2. Files with students' analyses
+* [text_analysis_caroline.ipynb](https://github.com/ds5110/stinky/blob/master/text_analysis_caroline.ipynb) -- Example of using tidied data saved as csv files in data folder
+
+## Project Idea: This Stinks
 
 Problem: Residents of Portland and South Portland in Maine have been reporting disruptive smells in the air 
 on certain days of the year. 
@@ -76,10 +85,3 @@ additional sampling will include:
 * Luke Truman (Sierra Club's Maine Chapter)
   * Luke has experience in data mapping, and working on projects with college students.
   * He has been invested in this problem of Portland/South Portland air quality for some time.
-
-# Northeastern student projects, Summer 2021 term - links to ipynb notebooks with code
-1. Files for updating data (these notebooks clean and merge raw data, as needed)
-* [stinky_dataset.ipynb](https://github.com/ds5110/stinky/blob/master/stinky_dataset.ipynb) -- Use to update df_stinky, table that combines data from SmellMyCity and SeeClickFix
-
-2. Files with students' analyses
-* [text_analysis_caroline.ipynb](https://github.com/ds5110/stinky/blob/master/text_analysis_caroline.ipynb) -- Example of using tidied data saved as csv files in data folder
