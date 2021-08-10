@@ -78,4 +78,4 @@ additional sampling will include:
   * He has been invested in this problem of Portland/South Portland air quality for some time.
 
 # Northeastern student projects, Summer 2021 term - links to ipynb notebooks with code
-* [stinky_dataset.ipynb](https://github.com/ds5110/stinky/blob/master/stinky_dataset_jul29.ipynb) -- Use to update combined smell reports dataframe (SmellMyCity and SeeClickFix)
+* [stinky_dataset.ipynb](https://github.com/ds5110/stinky/blob/master/stinky_dataset_jul29.ipynb) -- Use to update df_stinky, table that combines data from SmellMyCity and SeeClickFix
