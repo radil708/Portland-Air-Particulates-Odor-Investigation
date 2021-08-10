@@ -78,5 +78,8 @@ additional sampling will include:
   * He has been invested in this problem of Portland/South Portland air quality for some time.
 
 # Northeastern student projects, Summer 2021 term - links to ipynb notebooks with code
+1. Files for updating data (these notebooks clean and merge raw data, as needed)
 * [stinky_dataset.ipynb](https://github.com/ds5110/stinky/blob/master/stinky_dataset.ipynb) -- Use to update df_stinky, table that combines data from SmellMyCity and SeeClickFix
+
+2. Files with students' analyses
 * [text_analysis_caroline.ipynb](https://github.com/ds5110/stinky/blob/master/text_analysis_caroline.ipynb) -- Example of using tidied data saved as csv files in data folder
