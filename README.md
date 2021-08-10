@@ -76,3 +76,6 @@ additional sampling will include:
 * Luke Truman (Sierra Club's Maine Chapter)
   * Luke has experience in data mapping, and working on projects with college students.
   * He has been invested in this problem of Portland/South Portland air quality for some time.
+
+# Northeastern student projects, Summer 2021 term - links to ipynb notebooks with code
+* [stinky_dataset.ipynb](https://github.com/ds5110/stinky/blob/master/stinky_dataset_jul29.ipynb) -- Use to update combined smell reports dataframe (SmellMyCity and SeeClickFix)
