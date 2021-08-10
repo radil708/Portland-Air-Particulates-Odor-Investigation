@@ -1,6 +1,8 @@
 # stinky
 
-## Northeastern student projects
+## Northeastern University student projects
+
+### Smell reports
 
 Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebooks will open them automatically in Colab).
 
@@ -9,6 +11,10 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 
 2. Files with students' analyses
 * [text_analysis_caroline.ipynb](https://github.com/ds5110/stinky/blob/master/text_analysis_caroline.ipynb) -- Example of using tidied data saved as csv files in data folder
+
+### Environmental sensors
+
+* TBD
 
 ## Project Idea: This Stinks
 
