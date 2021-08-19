@@ -14,7 +14,7 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 
 ### Environmental sensors
 
-* TBD
+* All raw pod measurements are uploaded to the "stinky/weather_data_raw" directory in this repo. Those files are in the form of .csv. To update this repo simply replace the pod file. Thre replacement file needs to keep the original file naming scheme.
 
 ## Project Idea: This Stinks
 
