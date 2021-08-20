@@ -17,6 +17,8 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 
 * All raw pod measurements are uploaded to the "stinky/weather_data_raw" directory in this repo. Those files are in the form of .csv. To update this repo simply replace the pod file. Thre replacement file needs to keep the original file naming scheme.
 
+1.) Files for personal download (this notebook will autmatically download the weather group's data set - just run to download. These files do not need to moved to the repo - they can used for personal analyses)
+
 ### Data files - description of data folders and individual file names
 
 ## Project Idea: This Stinks
