@@ -8,7 +8,7 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 
 1. Files for updating data (these notebooks clean and merge raw data, as needed)
 * [stinky_dataset.ipynb](https://github.com/ds5110/stinky/blob/master/stinky_dataset.ipynb) -- Use to update df_stinky, table that combines data from SmellMyCity and SeeClickFix
-* [oil_vessel_dataset.ipynb](https://github.com/caro28/ds5110_project/blob/main/oil_vessel_dataset.ipynb) -- Use to update df_vessels, table that contains merged, annual data tracking oil vessel passages through Portland (TEMP link through Caroline's fork until fix pull request issue)
+* [oil_vessel_dataset.ipynb](https://github.com/ds5110/stinky/blob/master/oil_vessel_dataset.ipynb) -- Use to update df_vessels, table that contains merged, annual data tracking oil vessel passages through Portland
 
 2. Files with students' analyses
 * [text_analysis_caroline.ipynb](https://github.com/ds5110/stinky/blob/master/text_analysis_caroline.ipynb) -- Example of using tidied data saved as csv files in data folder
