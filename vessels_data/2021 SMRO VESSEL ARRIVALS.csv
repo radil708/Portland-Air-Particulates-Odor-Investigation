@@ -1,0 +1,216 @@
+﻿"ARRIVAL
+DATE","ARRIVAL
+TIME (if avail)",TERMINAL,SHIP NAME,"LAST PORT
+ OF CALL (if avail)",PRODUCT TYPE - OIL,"PRODUCT AMOUNT - OIL
+Multiply metric tons by 7.5 for approx bbls",,RUNNING TOTAL ,PRODUCT TYPE - NON-OIL,PRODUCT AMOUNT - NON OIL,,"RUNNING TOTAL
+(Specify Units)"
+1/4/21,,Citgo,Iver Prosperity,St. John ,23 - Unleaded Gasoline,"70,000",,"70,000",,,,0
+1/4/21,,Citgo,Iver Prosperity,St. John ,28 - Premium Unleaded Gasoline,"32,000",,"140,000",,,,0
+1/4/21,,Citgo,Iver Prosperity,St. John ,29 - Diesel (aka ULSD),"42,000",,"172,000",,,,0
+1/10/21,,Citgo,New England,St. John ,23 - Unleaded Gasoline,"90,000",,"214,000",,,,0
+1/7/21,,Citgo,DBL-104,St. John ,34 - Ethanol (aka E-100),"15,000",,"304,000",,,,0
+1/15/21,,Citgo,New England,St. John ,23 - Unleaded Gasoline,"75,000",,"319,000",,,,0
+1/15/21,,Citgo,New England,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","50,000",,"394,000",,,,0
+1/15/21,,Citgo,New England,St. John ,29 - Diesel (aka ULSD),"25,000",,"444,000",,,,0
+1/18/21,,Citgo,DBL-104,New York,34 - Ethanol (aka E-100),"15,000",,"469,000",,,,0
+1/31/21,,Citgo,Great Eastern,St. John ,23 - Unleaded Gasoline,"77,000",,"484,000",,,,0
+1/31/21,,Citgo,Great Eastern,St. John ,28 - Premium Unleaded Gasoline,"20,000",,"561,000",,,,0
+1/31/21,,Citgo,Great Eastern,St. John ,29 - Diesel (aka ULSD),"30,000",,"581,000",,,,0
+1/8/21,,Gulf,DBL-102,"New Haven, CT",34 - Ethanol (aka E-100),"28,000",,"611,000",,,,0
+1/15/21,,Gulf,Fight ALS,"Perth Amboy, NJ","02 - #2 Fuel Oil (aka FO, MGO, DMA)","82,000",,"639,000",,,,0
+1/19/21,,Gulf,Cape Gavi,St. John ,23 - Unleaded Gasoline,"42,000",,"721,000",,,,0
+1/25/21,,Gulf,Nave Pulsar,"New Haven, CT",23 - Unleaded Gasoline,"118,000",,"763,000",,,,0
+1/31/21,,Gulf,Fight ALS,New York,29 - Diesel (aka ULSD),"10,000",,"881,000",,,,0
+1/9/21,,Buckeye,New England,St. John ,23 - Unleaded Gasoline,"30,000",,"891,000",,,,0
+1/9/21,,Buckeye,New England,St. John ,23 - Unleaded Gasoline,"53,000",,"921,000",,,,0
+1/9/21,,Buckeye,New England,St. John ,29 - Diesel (aka ULSD),"42,000",,"974,000",,,,0
+1/9/21,,Buckeye,New England,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","50,000",,"1,016,000",,,,0
+1/7/21,,Buckeye,DBL-104,New York,34 - Ethanol (aka E-100),"15,000",,"1,066,000",,,,0
+1/14/21,,Buckeye,New England,St. John ,23 - Unleaded Gasoline,"27,000",,"1,081,000",,,,0
+1/14/21,,Buckeye,New England,St. John ,29 - Diesel (aka ULSD),"20,000",,"1,108,000",,,,0
+1/14/21,,Buckeye,New England,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","40,000",,"1,128,000",,,,0
+1/21/21,,Buckeye,Iver Prosperity,St. John ,23 - Unleaded Gasoline,"34,000",,"1,168,000",,,,0
+1/21/21,,Buckeye,Iver Prosperity,St. John ,29 - Diesel (aka ULSD),"25,000",,"1,202,000",,,,0
+1/21/21,,Buckeye,Iver Prosperity,St. John ,34 - Ethanol (aka E-100),"45,000",,"1,227,000",,,,0
+1/27/21,,Buckeye,DBL-104,New York,34 - Ethanol (aka E-100),"20,000",,"1,272,000",,,,0
+1/30/21,,Buckeye,Great Eastern,St. John ,23 - Unleaded Gasoline,"25,000",,"1,292,000",,,,0
+1/30/21,,Buckeye,Great Eastern,St. John ,28 - Premium Unleaded Gasoline,"14,000",,"1,317,000",,,,0
+1/30/21,,Buckeye,Great Eastern,St. John ,23 - Unleaded Gasoline,"30,000",,"1,331,000",,,,0
+1/30/21,,Buckeye,Great Eastern,St. John ,29 - Diesel (aka ULSD),"20,000",,"1,361,000",,,,0
+1/30/21,,Buckeye,Great Eastern,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","45,000",,"1,381,000",,,,0
+1/4/21,,Buckeye,Iver Prosperity,St. John ,23 - Unleaded Gasoline,"30,000",,"1,426,000",,,,0
+1/4/21,,Buckeye,Iver Prosperity,St. John ,28 - Premium Unleaded Gasoline,"15,000",,"1,456,000",,,,0
+1/4/21,,Buckeye,Iver Prosperity,St. John ,23 - Unleaded Gasoline,"35,000",,"1,471,000",,,,0
+1/4/21,,Buckeye,Iver Prosperity,St. John ,29 - Diesel (aka ULSD),"15,000",,"1,506,000",,,,0
+1/4/21,,Buckeye,Iver Prosperity,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","30,000",,"1,521,000",,,,0
+1/4/21,,Global,New England,,"02 - #2 Fuel Oil (aka FO, MGO, DMA)",726,,"1,551,000",,,,0
+1/7/21,,Global,New England,,"02 - #2 Fuel Oil (aka FO, MGO, DMA)",1452,,"1,551,726",,,,0
+1/7/21,,Global,New England,,06 - #6 Fuel Oil (aka IFO 380),"2,371",,"1,553,178",,,,0
+1/10/21,,Global,New England,,"02 - #2 Fuel Oil (aka FO, MGO, DMA)",,1089,"1,555,549",,,,0
+1/10/21,,Global,New England,,06 - #6 Fuel Oil (aka IFO 380),,4066,"1,554,460",,,,0
+1/18/21,,Global,RTC-145,"Revere,MA",01 - #1 Fuel Oil,"20,000",,"1,550,394",,,,0
+1/21/21,,Global,Great Kappa,"Southwold, UK","02 - #2 Fuel Oil (aka FO, MGO, DMA)","100,000",,"1,570,394",,,,0
+1/31/21,,Global,New England,,"02 - #2 Fuel Oil (aka FO, MGO, DMA)",,871,"1,670,394",,,,0
+1/31/21,,Global,New England,,06 - #6 Fuel Oil (aka IFO 380),,1694,"1,669,523",,,,0
+1/9/21,,Sprague,MT PTI,Bahamas,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","100,000",,"1,667,829",,,,0
+1/9/21,,Sprague,MT PTI,Bahamas,29 - Diesel (aka ULSD),"20,000",,"1,767,829",,,,0
+1/30/21,,Sprague,MT Cajun Sun,"Southwold, UK","02 - #2 Fuel Oil (aka FO, MGO, DMA)","127,000",,"1,787,829",,,,0
+2/9/21,,Citgo,Nor'easter,St. John ,23 - Unleaded Gasoline,"110,000",,"1,914,829",,,,0
+2/9/21,,Citgo,Nor'easter,St. John ,29 - Diesel (aka ULSD),"20,000",,"2,024,829",,,,0
+2/14/21,,Citgo,Cape Gavi,St. John ,23 - Unleaded Gasoline,"85,000",,"2,044,829",,,,0
+2/14/21,,Citgo,Cape Gavi,St. John ,23 - Unleaded Gasoline,"52,000",,"2,129,829",,,,0
+2/21/21,,Citgo,Nor'easter,St. John ,23 - Unleaded Gasoline,"85,000",,"2,181,829",,,,0
+2/21/21,,Citgo,Nor'easter,St. John ,23 - Unleaded Gasoline,"50,000",,"2,266,829",,,,0
+2/21/21,,Citgo,Nor'easter,St. John ,29 - Diesel (aka ULSD),"17,000",,"2,316,829",,,,0
+2/26/21,,Citgo,Iver Prosperity,St. John ,23 - Unleaded Gasoline,"120,000",,"2,333,829",,,,0
+2/28/21,,Citgo,East Coast,St. John ,23 - Unleaded Gasoline,"65,000",,"2,453,829",,,,0
+2/28/21,,Citgo,East Coast,St. John ,29 - Diesel (aka ULSD),"42,000",,"2,518,829",,,,0
+2/16/21,,Citgo,DBL-104,New York,34 - Ethanol (aka E-100),"15,000",,"2,560,829",,,,0
+2/18/21,,Citgo,Eva Leigh Cutler,New York,34 - Ethanol (aka E-100),"64,000",,"2,575,829",,,,0
+2/13/21,,Buckeye,Cape Gavi,St. John ,23 - Unleaded Gasoline,"18,000",,"2,639,829",,,,0
+2/13/21,,Buckeye,Cape Gavi,St. John ,23 - Unleaded Gasoline,"65,000",,"2,657,829",,,,0
+2/13/21,,Buckeye,Cape Gavi,St. John ,29 - Diesel (aka ULSD),"42,000",,"2,722,829",,,,0
+2/17/21,,Buckeye,DBL-104,New York,34 - Ethanol (aka E-100),"10,000",,"2,764,829",,,,0
+2/26/21,,Buckeye,Iver Prosperity,St. John ,23 - Unleaded Gasoline,"40,000",,"2,774,829",,,,0
+2/26/21,,Buckeye,Iver Prosperity,St. John ,28 - Premium Unleaded Gasoline,"10,000",,"2,814,829",,,,0
+2/26/21,,Buckeye,Iver Prosperity,St. John ,23 - Unleaded Gasoline,"45,000",,"2,824,829",,,,0
+2/26/21,,Buckeye,Iver Prosperity,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","45,000",,"2,869,829",,,,0
+2/20/21,,Buckeye,Nor'easter,St. John ,23 - Unleaded Gasoline,"11,000",,"2,914,829",,,,0
+2/20/21,,Buckeye,Nor'easter,St. John ,23 - Unleaded Gasoline,"22,000",,"2,925,829",,,,0
+2/20/21,,Buckeye,Nor'easter,St. John ,29 - Diesel (aka ULSD),"33,000",,"2,947,829",,,,0
+2/20/21,,Buckeye,Nor'easter,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","42,000",,"2,980,829",,,,0
+2/11/21,,Global,New England,,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","1,089",,"3,022,829",,,,0
+2/11/21,,Global,New England,,06 - #6 Fuel Oil (aka IFO 380),"1,355",,"3,023,918",,,,0
+2/11/21,,Global,Markos 1,,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","100,000",,"3,025,273",,,,0
+2/14/21,,Global,New England,,"02 - #2 Fuel Oil (aka FO, MGO, DMA)",,1525,"3,125,273",,,,0
+2/14/21,,Global,New England,,06 - #6 Fuel Oil (aka IFO 380),,2371,"3,123,748",,,,0
+2/10/21,,Gulf,MTM Hudson,"New Haven, CT",23 - Unleaded Gasoline,"75,000",,"3,121,377",,,,0
+2/17/21,,Gulf,DBL-102,"Chelsea, MA",23 - Unleaded Gasoline,"32,000",,"3,196,377",,,,0
+2/18/21,,Gulf,Fight ALS,"Bayonne, NJ",29 - Diesel (aka ULSD),"83,000",,"3,228,377",,,,0
+2/15/21,,Sprague,RTC-104,"Portsmouth, NH","02 - #2 Fuel Oil (aka FO, MGO, DMA)","35,000",,"3,311,377",,,,0
+2/15/21,,Sprague,RTC-104,"Portsmouth, NH",88 - Other,"15,000",,"3,346,377",,,,0
+2/28/21,,Portland Pipeline,Cobalt Sun,,61 - Crude Oil,"700,000",,"3,361,377",,,,0
+3/13/21,,Citgo,DBL-104,"Boston, MA",34 - Ethanol (aka E-100),"15,000",,"4,061,377",,,,0
+3/13/21,,Citgo,Great Eastern,St. John ,23 - Unleaded Gasoline,"38,000",,"4,076,377",,,,0
+3/13/21,,Citgo,Great Eastern,St. John ,29 - Diesel (aka ULSD),"45,000",,"4,114,377",,,,0
+3/12/21,,Citgo,New England,St. John ,23 - Unleaded Gasoline,"38,000",,"4,159,377",,,,0
+3/12/21,,Citgo,New England,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","35,000",,"4,197,377",,,,0
+3/12/21,,Citgo,New England,St. John ,29 - Diesel (aka ULSD),"35,000",,"4,232,377",,,,0
+3/12/21,,Citgo,New England,St. John ,28 - Premium Unleaded Gasoline,"4,000",,"4,267,377",,,,0
+3/21/21,,Citgo,Cape Gavi,St. John ,23 - Unleaded Gasoline,"58,000",,"4,271,377",,,,0
+3/21/21,,Citgo,Cape Gavi,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","20,900",,"4,329,377",,,,0
+3/21/21,,Citgo,Cape Gavi,St. John ,29 - Diesel (aka ULSD),"25,000",,"4,350,277",,,,0
+3/28/21,,Citgo,Nor'easter,St. John ,23 - Unleaded Gasoline,"96,000",,"4,375,277",,,,0
+3/28/21,,Citgo,Nor'easter,St. John ,29 - Diesel (aka ULSD),"45,000",,"4,471,277",,,,0
+3/28/21,,Citgo,Nor'easter,St. John ,28 - Premium Unleaded Gasoline,"25,000",,"4,516,277",,,,0
+3/26/21,,Citgo,DBL-104,New York,34 - Ethanol (aka E-100),"18,000",,"4,541,277",,,,0
+3/25/21,,Citgo,Eva Leigh Cutler,"Braintree, MA",34 - Ethanol (aka E-100),"26,000",,"4,559,277",,,,0
+3/5/21,,Citgo,DBL-104,"Boston, MA",34 - Ethanol (aka E-100),"12,000",,"4,585,277",,,,0
+3/6/21,,Citgo,East Coast,St. John ,23 - Unleaded Gasoline,"83,000",,"4,597,277",,,,0
+3/6/21,,Citgo,East Coast,St. John ,29 - Diesel (aka ULSD),"45,000",,"4,680,277",,,,0
+3/11/21,,Gulf,Fight ALS,New Jersey,29 - Diesel (aka ULSD),"78,000",,"4,725,277",,,,0
+3/30/21,,Gulf,Fight ALS,New Jersey,29 - Diesel (aka ULSD),"83,000",,"4,803,277",,,,0
+3/26/21,,Gulf,Cape Gavi,St. John ,23 - Unleaded Gasoline,"80,000",,"4,886,277",,,,0
+3/16/21,,Buckeye,New England,St. John ,28 - Premium Unleaded Gasoline,"38,000",,"4,966,277",,,,0
+3/16/21,,Buckeye,New England,St. John ,29 - Diesel (aka ULSD),"25,000",,"5,004,277",,,,0
+3/20/21,,Buckeye,Cape Gavi,St. John ,23 - Unleaded Gasoline,"70,000",,"5,029,277",,,,0
+3/20/21,,Buckeye,Cape Gavi,St. John ,23 - Unleaded Gasoline,"50,000",,"5,099,277",,,,0
+3/20/21,,Buckeye,Cape Gavi,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","46,000",,"5,149,277",,,,0
+3/1/21,,Buckeye,East Coast,St. John ,23 - Unleaded Gasoline,"30,000",,"5,195,277",,,,0
+3/1/21,,Buckeye,East Coast,St. John ,23 - Unleaded Gasoline,"45,000",,"5,225,277",,,,0
+3/1/21,,Buckeye,East Coast,St. John ,29 - Diesel (aka ULSD),"38,000",,"5,270,277",,,,0
+3/1/21,,Buckeye,East Coast,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","45,000",,"5,308,277",,,,0
+3/5/21,,Buckeye,East Coast,St. John ,23 - Unleaded Gasoline,"38,000",,"5,353,277",,,,0
+3/5/21,,Buckeye,East Coast,St. John ,29 - Diesel (aka ULSD),"42,000",,"5,391,277",,,,0
+3/5/21,,Buckeye,East Coast,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","50,000",,"5,433,277",,,,0
+3/5/21,,Buckeye,DBL-104,New York,34 - Ethanol (aka E-100),"8,000",,"5,483,277",,,,0
+3/31/21,,Buckeye,Acadian,St. John ,23 - Unleaded Gasoline,"85,000",,"5,491,277",,,,0
+3/31/21,,Buckeye,Acadian,St. John ,29 - Diesel (aka ULSD),"45,000",,"5,576,277",,,,0
+3/31/21,,Buckeye,Acadian,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","45,000",,"5,621,277",,,,0
+3/2/21,,Global,Torm Stellar,Belgium,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","100,000",,"5,666,277",,,,0
+3/9/21,,Global,New England,,"02 - #2 Fuel Oil (aka FO, MGO, DMA)",799,,"5,766,277",,,,0
+3/9/21,,Global,New England,,06 - #6 Fuel Oil (aka IFO 380),"1,355",,"5,767,076",,,,0
+3/8/21,,Global,New England,,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","2,541",,"5,768,431",,,,0
+3/31/21,,Global,Palanca Rio,St. John ,41 - Asphalt,"42,000",,"5,770,972",,,,0
+3/31/21,,Global,RTC-145,"Bayonne, NJ",01 - #1 Fuel Oil,"25,000",,"5,812,972",,,,0
+3/29/21,,Sprague,RTC-104,"Newington,NH","02 - #2 Fuel Oil (aka FO, MGO, DMA)","40,000",,"5,837,972",,,,0
+3/19/21,,Sprague,RTC-104,"Quincy, MA",29 - Diesel (aka ULSD),"20,000",,"5,877,972",,,,0
+3/19/21,,Sprague,RTC-104,"Quincy, MA",25 - Jet Fuel,"20,000",,"5,897,972",,,,0
+3/28/21,,Sprague,RTC-104,"Newington,NH","02 - #2 Fuel Oil (aka FO, MGO, DMA)","40,000",,"5,917,972",,,,0
+3/30/21,,Sprague,Fight ALS,New York,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","15,000",,"5,957,972",,,,0
+3/9/21,,Sprague,Palanca Rio,St. John ,41 - Asphalt,"84,000",,"5,972,972",,,,0
+4/28/21,,Citgo,East Coast,St. John ,23 - Unleaded Gasoline,"60,000",,"6,056,972",,,,0
+4/28/21,,Citgo,East Coast,St. John ,28 - Premium Unleaded Gasoline,"23,000",,"6,116,972",,,,0
+4/30/21,,Citgo,New England,St. John ,23 - Unleaded Gasoline,"100,000",,"6,139,972",,,,0
+4/30/21,,Citgo,New England,St. John ,29 - Diesel (aka ULSD),"38,000",,"6,239,972",,,,0
+4/6/21,,Citgo,DBL-104,"Boston, MA",34 - Ethanol (aka E-100),"17,000",,"6,277,972",,,,0
+4/8/21,,Citgo,Iver Prosperity,St. John ,23 - Unleaded Gasoline,"65,000",,"6,294,972",,,,0
+4/8/21,,Citgo,Iver Prosperity,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","20,000",,"6,359,972",,,,0
+4/8/21,,Citgo,Iver Prosperity,St. John ,29 - Diesel (aka ULSD),"30,000",,"6,379,972",,,,0
+4/16/21,,Citgo,New England,St. John ,23 - Unleaded Gasoline,"90,000",,"6,409,972",,,,0
+4/16/21,,Citgo,New England,St. John ,28 - Premium Unleaded Gasoline,"18,000",,"6,499,972",,,,0
+4/23/21,,Citgo,New England,St. John ,23 - Unleaded Gasoline,"76,000",,"6,517,972",,,,0
+4/13/21,,Gulf,RTC-150,"New Haven, CT",34 - Ethanol (aka E-100),"33,000",,"6,593,972",,,,0
+4/12/21,,Gulf,Maersk Messina,New York,23 - Unleaded Gasoline,"200,000",,"6,626,972",,,,0
+4/14/21,,Gulf,Nor'easter,St. John ,23 - Unleaded Gasoline,"12,000",,"6,826,972",,,,0
+4/16/21,,Gulf,New England,St. John ,23 - Unleaded Gasoline,"12,000",,"6,838,972",,,,0
+4/27/21,,Gulf,Nor'easter,St. John ,23 - Unleaded Gasoline,"40,000",,"6,850,972",,,,0
+4/27/21,,Gulf,Nor'easter,St. John ,29 - Diesel (aka ULSD),"60,000",,"6,890,972",,,,0
+4/30/21,,Buckeye,New England,St. John ,23 - Unleaded Gasoline,"45,000",,"6,950,972",,,,0
+4/30/21,,Buckeye,New England,St. John ,23 - Unleaded Gasoline,"35,000",,"6,995,972",,,,0
+4/30/21,,Buckeye,New England,St. John ,29 - Diesel (aka ULSD),"47,000",,"7,030,972",,,,0
+4/6/21,,Buckeye,DBL-104,New York,34 - Ethanol (aka E-100),"10,000",,"7,077,972",,,,0
+4/8/21,,Buckeye,Iver Prosperity,St. John ,23 - Unleaded Gasoline,"40,000",,"7,087,972",,,,0
+4/8/21,,Buckeye,Iver Prosperity,St. John ,23 - Unleaded Gasoline,"35,000",,"7,127,972",,,,0
+4/8/21,,Buckeye,Iver Prosperity,St. John ,29 - Diesel (aka ULSD),"30,000",,"7,162,972",,,,0
+4/8/21,,Buckeye,Iver Prosperity,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","50,000",,"7,192,972",,,,0
+4/13/21,,Buckeye,Nor'easter,St. John ,23 - Unleaded Gasoline,"94,000",,"7,242,972",,,,0
+4/13/21,,Buckeye,Nor'easter,St. John ,29 - Diesel (aka ULSD),"25,000",,"7,336,972",,,,0
+4/13/21,,Buckeye,Nor'easter,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","20,000",,"7,361,972",,,,0
+4/28/21,,Buckeye,East Coast,St. John ,23 - Unleaded Gasoline,"45,000",,"7,381,972",,,,0
+4/28/21,,Buckeye,East Coast,St. John ,23 - Unleaded Gasoline,"68,000",,"7,426,972",,,,0
+4/28/21,,Buckeye,East Coast,St. John ,29 - Diesel (aka ULSD),"25,000",,"7,494,972",,,,0
+4/28/21,,Buckeye,East Coast,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","17,000",,"7,519,972",,,,0
+4/2/21,,Global,New England,,06 - #6 Fuel Oil (aka IFO 380),"2,032",,"7,536,972",,,,0
+4/26/21,,Global,New England,,06 - #6 Fuel Oil (aka IFO 380),"2,254",,"7,539,004",,,,0
+4/2/21,,Global,Hellas Califa,,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","120,000",,"7,541,258",,,,0
+4/2/21,,Global,New England,,06 - #6 Fuel Oil (aka IFO 380),"2,032",,"7,661,258",,,,0
+4/6/21,,Sprague,Mt East Coast,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","45,000",,"7,663,290",,,,0
+4/26/21,,Sprague,Penn 92,St. John ,41 - Asphalt,"71,000",,"7,708,290",,,,0
+4/26/21,,Sprague,Penn 92,St. John ,88 - Other,"18,500",,"7,779,290",,,,0
+5/6/21,,Citgo,DBL-140,New York,34 - Ethanol (aka E-100),"15,000",,"7,797,790",,,,0
+5/9/21,,Citgo,Acadian,St. John ,23 - Unleaded Gasoline,"71,000",,"7,812,790",,,,0
+5/9/21,,Citgo,Acadian,St. John ,23 - Unleaded Gasoline,"23,000",,"7,883,790",,,,0
+5/8/21,,Citgo,Iver Prosperity,"Portsmouth, NH",23 - Unleaded Gasoline,"37,000",,"7,906,790",,,,0
+5/14/21,,Citgo,DBL-140,New York,34 - Ethanol (aka E-100),"10,000",,"7,943,790",,,,0
+5/13/21,,Citgo,Acadian,St. John ,23 - Unleaded Gasoline,"105,000",,"7,953,790",,,,0
+5/19/21,,Citgo,Acadian,St. John ,23 - Unleaded Gasoline,"110,000",,"8,058,790",,,,0
+5/19/21,,Citgo,Acadian,St. John ,28 - Premium Unleaded Gasoline,"20,000",,"8,168,790",,,,0
+5/20/21,,Citgo,Eva Leigh Cutler,New York,34 - Ethanol (aka E-100),"26,000",,"8,188,790",,,,0
+5/25/21,,Citgo,New England,St. John ,23 - Unleaded Gasoline,"111,000",,"8,214,790",,,,0
+5/25/21,,Citgo,New England,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","10,000",,"8,325,790",,,,0
+5/25/21,,Citgo,New England,St. John ,29 - Diesel (aka ULSD),"30,000",,"8,335,790",,,,0
+5/28/21,,Citgo,DBL-104,St. John ,34 - Ethanol (aka E-100),"16,000",,"8,365,790",,,,0
+5/29/21,,Citgo,New England,St. John ,23 - Unleaded Gasoline,"65,000",,"8,381,790",,,,0
+5/29/21,,Citgo,New England,St. John ,29 - Diesel (aka ULSD),"50,000",,"8,446,790",,,,0
+5/9/21,,Gulf,Acadian,St. John ,23 - Unleaded Gasoline,"12,000",,"8,496,790",,,,0
+5/21/21,,Gulf,Nor'easter,St. John ,23 - Unleaded Gasoline,"38,000",,"8,508,790",,,,0
+5/30/21,,Gulf,Aker Alos,"New Haven, CT",23 - Unleaded Gasoline,"110,000",,"8,546,790",,,,0
+5/2/21,,Gulf,SCF USSURI,"New Haven, CT",23 - Unleaded Gasoline,"130,000",,"8,656,790",,,,0
+5/5/21,,Gulf,RTC-104,"New Haven, CT",34 - Ethanol (aka E-100),"20,000",,"8,786,790",,,,0
+5/14/21,,Buckeye,DBL-140,New York,34 - Ethanol (aka E-100),"10,000",,"8,806,790",,,,0
+5/13/21,,Buckeye,Acadian,St. John ,23 - Unleaded Gasoline,"40,000",,"8,816,790",,,,0
+5/13/21,,Buckeye,Acadian,St. John ,23 - Unleaded Gasoline,"72,000",,"8,856,790",,,,0
+5/13/21,,Buckeye,Acadian,St. John ,29 - Diesel (aka ULSD),"42,000",,"8,928,790",,,,0
+5/13/21,,Buckeye,Acadian,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","8,000",,"8,970,790",,,,0
+5/28/21,,Buckeye,DBL-104,New York,34 - Ethanol (aka E-100),"10,000",,"8,978,790",,,,0
+5/7/21,,Buckeye,DBL-104,New York,34 - Ethanol (aka E-100),"10,000",,"8,988,790",,,,0
+5/7/21,,Global,T/B Penn 92,St. John ,41 - Asphalt,"34,000",,"8,998,790",,,,0
+5/29/21,,Global,New England,,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","1,525",,"9,032,790",,,,0
+5/29/21,,Global,New England,,06 - #6 Fuel Oil (aka IFO 380),"2,371",,"9,034,315",,,,0
+5/30/21,,Global,New England,,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","1,016",,"9,036,686",,,,0
+5/30/21,,Global,New England,,06 - #6 Fuel Oil (aka IFO 380),"4,540",,"9,037,702",,,,0
+5/4/21,,Sprague,Nor'easter,St. John ,"02 - #2 Fuel Oil (aka FO, MGO, DMA)","25,000",,"9,042,242",,,,0
+5/4/21,,Sprague,Nor'easter,St. John ,25 - Jet Fuel,"35,000",,"9,067,242",,,,0
+5/21/21,,Portland Pipeline,Olympisky Prospect,,61 - Crude Oil,"658,000",,"9,102,242",,,,0
+5/20/21,,Portland Pipeline,Olympisky Prospect,,61 - Crude Oil,"657,243",,"9,760,242",,,,0
