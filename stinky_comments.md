@@ -13,7 +13,7 @@
     * This file can be compared with the version that's in github -- REPRODUCIBILITY -- YAY!!!
   * Did I mention that this is a fantastic notebook?! ;-)
 * Geo_dataset.ipynb
-  * https://colab.research.google.com/github/ds5110/stinky/blob/master/Geo_dataset.ipynb
+  * https://colab.research.google.com/drive/1SkrSW9Gqhya4NaRm-4pOLfJ5DdGRBJ5f?authuser=3#scrollTo=m95peZ2uDzkX
   * Not yet listed in the README -- that's fine, since the notebook seems to be a work in progress
   * Doesn't launch automatically, but runs to completion on Colab
   * I'd have to dig in a bit to figure out what's going on here.
