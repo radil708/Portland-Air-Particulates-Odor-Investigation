@@ -17,10 +17,24 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 
 * All raw pod measurements are uploaded to the "stinky/weather_data_raw" directory in this repo. Those files are in the form of .csv. To update this repo simply replace the pod file. Thre replacement file needs to keep the original file naming scheme.
 
-1.) Files for personal download (this notebook will autmatically download the weather group's data set - just run to download. These files do not need to moved to the repo - they can used for personal analyses)
+1. Files for personal download (this notebook will autmatically download the weather group's data set - just run to download. These files do not need to moved to the repo - they can used for personal analyses)
 * [weather_datasets.ipynb](https://github.com/ds5110/stinky/blob/master/weather_datasets.ipynb)
 
 ### Data files - description of data folders and individual file names
+
+1. Data folders
+* data: contains raw data (csv files) of smell data (from SmellMyCity and SeeClickFix), and tidied csv files merging raw smell data and oil vessels data
+* vessels_data_raw: contains raw data (csv files) for data tracking oil vessel passages through Portland
+* weather_data_raw: contains raw data (csv files) for weather data
+
+3. Data files
+* df_stinky.csv
+* df_vessels.csv
+* huggingface_results.csv: results from a model run in text_analysis.ipynb. The model takes ~30 minutes to run; results were downloaded and loaded into huggingface_results.ipynb for easy reference. To update with new data in df_stinky and download: see instructions in text_analysis.ipynb.
+* scf.csv
+* smc.csv
+* 2020 SMRO VESSEL ARRIVALS.csv
+* 2021 SMRO VESSEL ARRIVALS.csv
 
 ## Project Idea: This Stinks
 
