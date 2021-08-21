@@ -13,6 +13,7 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 2. Files with students' analyses
 * [text_analysis.ipynb](https://github.com/ds5110/stinky/blob/master/text_analysis.ipynb) -- Analyzes the text of smell descriptions and builds visualizations based on these analyses. Includes attempts at building a classifier, which would allow us to tag each row by smell type. Methods and results of each attempt are described in order to help build a better classifier in the future.
   * [huggingface_results.ipynb](https://github.com/ds5110/stinky/blob/master/huggingface_results.ipynb) -- Includes results from one of the classifier attempts in text_analysis.ipynb. The model takes ~30 minutes to run; results were downloaded and loaded into huggingface_results.ipynb for easy reference. See "Approach 4: Use Huggingface" in text_analysis.ipynb.
+* [distributions_allvars_analysis.ipynb](https://github.com/ds5110/stinky/blob/master/distributions_allvars_analysis.ipynb) -- Includes visualizations regarding the pattern of complaints on a monthly basis and relates it to differnt factors such as arrival of vessels, type of oil carried by these vessels, average temperature, average wind speed and also distributes the complaints according to the city of Portland and South Portland. Convenience functions are made to make the analysis user friendly as the distributions can be changed for different months and year.
 * [stinky_maps.ipynb](https://github.com/ds5110/stinky/blob/master/stinky_maps.ipynb) -- Merge the df_Stinky data with weather data and visualise the geographical data on the basis of temperature, wind direction and season. Plotting pods and terminals as well for better understanding. The data is visualised region wise (Portand and South Portland) and weather data is considered from the nearest pod only.
 
 ### Environmental sensors
@@ -33,10 +34,10 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 * df_stinky.csv: this file is the tidied and merged file containing odor complaints from both SmellMyCity(smc.csv) and SeeCLickFix(scf.csv). This file is used for all other analytical notebooks and further analysis.
 * df_vessels.csv: this file is the tidied and merged file containing oil vessels data for year 2020 (2020 SMRO VESSEL ARRIVALS.csv) and year 2021 (2021 SMRO VESSEL ARRIVALS.csv). This file is used for all other analytical notebooks and further analysis.
 * huggingface_results.csv: results from a model run in text_analysis.ipynb. The model takes ~30 minutes to run; results were downloaded and loaded into huggingface_results.ipynb for easy reference. To update with new data in df_stinky and download: see instructions in text_analysis.ipynb.
-* scf.csv
-* smc.csv
-* 2020 SMRO VESSEL ARRIVALS.csv
-* 2021 SMRO VESSEL ARRIVALS.csv
+* scf.csv: it is the original file with odor complaints from SmellMyCity
+* smc.csv: it is the original file with odor complaints from SeeClickFix
+* 2020 SMRO VESSEL ARRIVALS.csv: it is the original file containing all of oil vessels data for year 2020 
+* 2021 SMRO VESSEL ARRIVALS.csv: it is the original file containing all of oil vessels data for year 2021
 
 ## Project Idea: This Stinks
 
