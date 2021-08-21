@@ -12,6 +12,7 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 
 2. Files with students' analyses
 * [text_analysis.ipynb](https://github.com/ds5110/stinky/blob/master/text_analysis.ipynb) -- Analyzes the text of smell descriptions and builds visualizations based on these analyses. Includes attempts at building a classifier, which would allow us to tag each row by smell type. Methods and results of each attempt are described in order to help build a better classifier in the future.
+  * [huggingface_results.ipynb](https://github.com/ds5110/stinky/blob/master/huggingface_results.ipynb) -- Includes results from one of the classifier attempts in text_analysis.ipynb. See "Approach 4: Use Huggingface" in text_analysis.ipynb.
 
 ### Environmental sensors
 
