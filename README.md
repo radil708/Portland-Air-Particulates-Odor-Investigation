@@ -28,7 +28,7 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 * vessels_data_raw: contains raw data (csv files) for data tracking oil vessel passages through Portland
 * weather_data_raw: contains raw data (csv files) for weather data
 
-3. Data files
+2. Data files
 * df_stinky.csv
 * df_vessels.csv
 * huggingface_results.csv: results from a model run in text_analysis.ipynb. The model takes ~30 minutes to run; results were downloaded and loaded into huggingface_results.ipynb for easy reference. To update with new data in df_stinky and download: see instructions in text_analysis.ipynb.
