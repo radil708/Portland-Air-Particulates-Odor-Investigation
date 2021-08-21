@@ -11,7 +11,7 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 * [oil_vessel_dataset.ipynb](https://github.com/ds5110/stinky/blob/master/oil_vessel_dataset.ipynb) -- Use to update df_vessels, table that contains merged, annual data tracking oil vessel passages through Portland
 
 2. Files with students' analyses
-* [text_analysis_caroline.ipynb](https://github.com/ds5110/stinky/blob/master/text_analysis_caroline.ipynb) -- Example of using tidied data saved as csv files in data folder
+* [text_analysis.ipynb](https://github.com/ds5110/stinky/blob/master/text_analysis.ipynb) -- Analyzes the text of smell descriptions and builds visualizations based on these analyses. Includes attempts at building a classifier, which would allow us to tag each row by smell type. Methods and results of each attempt are described in order to help build a better classifier in the future.
 
 ### Environmental sensors
 
