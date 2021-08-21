@@ -1,4 +1,4 @@
-# stinky
+# stinky TEST
 
 ## Northeastern University student projects
 
