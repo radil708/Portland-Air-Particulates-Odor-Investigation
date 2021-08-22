@@ -24,6 +24,7 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 * [weather_datasets.ipynb](https://github.com/ds5110/stinky/blob/master/weather_datasets.ipynb)
 
 2. This notebook contains the visualizations and analyses performed by the weather team - weather feature plots, logistic modeling, etc. Text descriptions are included.
+* [Weather_Team_Analysis_Notebook.ipynb]
 
 ### Data files - description of data folders and individual file names
 
