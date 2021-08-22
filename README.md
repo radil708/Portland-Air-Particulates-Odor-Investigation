@@ -18,13 +18,16 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 
 ### Environmental sensors
 
-* All raw pod measurements are uploaded to the "stinky/weather_data_raw" directory in this repo. Those files are in the form of .csv. To update this repo simply replace the pod file. Thre replacement file needs to keep the original file naming scheme.
+* All raw pod measurements are uploaded to the "stinky/weather_data/raw_pod_measurement directory in this repo. Those files are in the form of .csv. To update this repo simply replace the pod file. Thre replacement file needs to keep the original file naming scheme.
+
+* All weather intermediary csv/files are present in the stinky/weather_data/intermediary_files. If the raw pod data is updated, please run the weather_datasets.ipynb notebook to regenerate these files. Then update this directory with the new files generated.
 
 1. Files for personal download (this notebook will autmatically download the weather group's data sets - just run to download. These files do not need to moved to the repo - they can used for personal analyses). These files are also present in the directiory weather_data/intermediary_files/
 * [weather_datasets.ipynb](https://github.com/ds5110/stinky/blob/master/weather_datasets.ipynb)
 
-2. This notebook contains the visualizations and analyses performed by the weather team - weather feature plots, logistic modeling, etc. Text descriptions are included.
-* [Weather_Team_Analysis_Notebook.ipynb]
+2. This notebook contains the visualizations and analyses performed by the weather team - weather feature plots over time, weather and complaint quantity analysis and visualization, logistic modeling, etc. Text descriptions are included. This notebook may take 2-3 minutes to completely run as the visualizations are working with a large amount of data points.
+* [Weather_Team_Analysis_Notebook.ipynb](https://github.com/ds5110/stinky/blob/master/Weather_Team_Analysis_Notebook.ipynb)
+
 
 ### Data files - description of data folders and individual file names
 
@@ -105,6 +108,9 @@ additional sampling will include:
   * SMRO 3-7 (the units that are online) -- note the location at the bottom of the page. 
   * These were installed sometime in 2020 (that's when ME DEP started monitoring South Portland in particular)
   * To download spreadsheets, hit the button at the top of the bar that is a downward arrow.
+  * We use data measured by the hour, so future updates require the user to download the weather data
+    in the same time frame. To do this, after clickin te "download data" icon, select "60 minutes"
+    from the interval dropdown from the Ennhanced Download section.
 * Oil terminals -- all of this data is in paper form
   * When barges come into the Portland terminal to deliver or pick up oil, they have to give DEP notice
   * There are written notifications from boats to ME DEP -- these are faxed paper copies
