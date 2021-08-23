@@ -18,11 +18,11 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 
 ### Environmental sensors
 
-* All raw pod measurements are uploaded to the "stinky/weather_data/raw_pod_measurement directory in this repo. Those files are in the form of .csv. To update this repo simply replace the pod file. Thre replacement file needs to keep the original file naming scheme.
+* All raw pod measurements are uploaded to the "stinky/weather_data/pod_raw_data" directory in this repo. Those files are in the form of .csv. To update this repo simply replace the pod files. The replacement file needs to keep the original file naming scheme, every new replacement file needs to to have the pod name as the first 5 characters of the file name.
 
-* All weather intermediary csv/files are present in the stinky/weather_data/intermediary_files. If the raw pod data is updated, please run the weather_datasets.ipynb notebook to regenerate these files. Then update this directory with the new files generated.
+* All weather intermediary csv/files are present in the stinky/weather_data/weather_intermediary_files. If the raw pod data is updated, please run the weather_datasets.ipynb notebook to regenerate these files. Then update this directory with the new files generated.
 
-1. Files for personal download (this notebook will autmatically download the weather group's data sets - just run to download. With the exception of df_master_weather.csv, these files do not need to moved to the repo - they can used for personal analyses (df_master_weather.csv should be uploaded to stinky/weather_data/intermediary_files if the PODs data is updated). These files are also present in the directiory weather_data/intermediary_files/
+1. Files for download (this notebook will autmatically download the weather group's data sets/ all the weather intermediary files - just run to download). This notebook can be used to generate the intermediary files present in the weather_data/weather_intermediary_files directory. Please run this notebook if the any updates are made to the weather_data/pod_raw_data directory. Then use the generated files to replace the files in weather_data/weather_intermediary_files 
 * [weather_datasets.ipynb](https://github.com/ds5110/stinky/blob/master/weather_datasets.ipynb)
 
 2. This notebook contains the visualizations and analyses performed by the weather team - weather feature plots over time, weather and complaint quantity analysis and visualization, logistic modeling, etc. Text descriptions are included. This notebook may take 2-3 minutes to completely run as the visualizations are working with a large amount of data points. Every time this notebook is run any updates to the raw data files will be reflected in the notebook. Be aware that updating the raw files may change the conclusions of the analysis as new data may make our current conclusions obsolete.
