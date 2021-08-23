@@ -59,8 +59,8 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 * weather_intermediary_files
   * df_master_weather : The complilation of raw pod measurement, just concatenating them.
   * df_weather_master_outliers_removed: The same as df_weather_master but SMRO4 data is removed.
-  * df_complaints: A dataframe that groups the total complaints by hour and are aggregate by sum.
-  * df_merged : A dataframe that groups measurements by hour. Weather values are aggregated by average and complaint totals are aggregated by sum.
+  * df_complaints: A dataframe that groups the total complaints by hour and aggregates the complaints by sum.
+  * df_merged : A dataframe that groups measurements by the hour. Weather values are aggregated by average and complaint totals are aggregated by sum.
   * df_model_analysis: a dataframe used for logistic regression analysis
 
 ## Project Idea: This Stinks
