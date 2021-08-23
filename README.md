@@ -31,27 +31,28 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 
 ### Data files - description of data folders and individual file names
 
-1. Data folders
-* data: contains raw data (csv files) of smell data (from SmellMyCity and SeeClickFix), and tidied csv files merging raw smell data and oil vessels data
-* vessels_data_raw: contains raw data (csv files) for data tracking oil vessel passages through Portland
-* weather_data_raw: contains raw data (csv files) for weather data
+1. Parent data folders
+* smell_data: contains raw data (csv files) of smell data (from SmellMyCity and SeeClickFix), and tidied csv files merging raw smell data and oil vessels data
+* vessels_data: contains raw data (csv files) for data tracking oil vessel passages through Portland
+* weather_data: contains raw data (csv files) for weather data
 
-2. Raw data files
-* smell raw data
+2. Raw data folders and files
+* smell_raw_data
   * scf.csv: it is the original file with odor complaints from SmellMyCity
   * smc.csv: it is the original file with odor complaints from SeeClickFix
-* vessels raw data
+* vessels_raw_data
   * 2020 SMRO VESSEL ARRIVALS.csv: it is the original file containing all of oil vessels data for year 2020 
   * 2021 SMRO VESSEL ARRIVALS.csv: it is the original file containing all of oil vessels data for year 2021
-* weather raw data
+* weather_raw_data
   * LIST
 
-3. Intermediary files
-* smell data
+3. Intermediary data folders and files
+* smell_data
    * df_stinky.csv: this file is the tidied and merged file containing odor complaints from both SmellMyCity(smc.csv) and SeeCLickFix(scf.csv). This file is used for all other analytical notebooks and further analysis.
    * huggingface_results.csv: results from a model run in text_analysis.ipynb. The model takes ~30 minutes to run; results were downloaded and loaded into huggingface_results.ipynb for easy reference. To update with new data in df_stinky and download: see instructions in text_analysis.ipynb.
-* vessels data
+* vessels_data
    * df_vessels.csv: this file is the tidied and merged file containing oil vessels data for year 2020 (2020 SMRO VESSEL ARRIVALS.csv) and year 2021 (2021 SMRO VESSEL ARRIVALS.csv). This file is used for all other analytical notebooks and further analysis.
+* weather_data
 
 ## Project Idea: This Stinks
 
