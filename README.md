@@ -53,6 +53,11 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 * vessels_intermediary_files
    * df_vessels.csv: this file is the tidied and merged file containing oil vessels data for year 2020 (2020 SMRO VESSEL ARRIVALS.csv) and year 2021 (2021 SMRO VESSEL ARRIVALS.csv). This file is used for all other analytical notebooks and further analysis.
 * weather_intermediary_files
+* df_master_weather : The complilation of raw pod measurement, just concatenating them.
+* df_weather_master_outliers_removed: The same as df_weather_master but SMRO4 data is removed.
+* df_complaints: A dataframe that groups the total complaints by hour and are aggregate by sum.
+* df_merged : A dataframe that groups measurements by hour. Weather values are aggregated by average and complaint totals are aggregated by sum.
+* df_model_analysis: a dataframe used for logistic regression analysis
 
 ## Project Idea: This Stinks
 
