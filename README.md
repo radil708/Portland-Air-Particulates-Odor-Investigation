@@ -18,32 +18,50 @@ Summer 2021 term - links to Jupyter notebooks. (Links at the top of these notebo
 
 ### Environmental sensors
 
-* All raw pod measurements are uploaded to the "stinky/weather_data/raw_pod_measurement directory in this repo. Those files are in the form of .csv. To update this repo simply replace the pod file. Thre replacement file needs to keep the original file naming scheme.
+* All raw pod measurements are uploaded to the "stinky/weather_data/pod_raw_data" directory in this repo. Those files are in the form of .csv. To update this repo simply replace the pod files. The replacement file needs to keep the original file naming scheme, every new replacement file needs to to have the pod name as the first 5 characters of the file name.
 
-* All weather intermediary csv/files are present in the stinky/weather_data/intermediary_files. If the raw pod data is updated, please run the weather_datasets.ipynb notebook to regenerate these files. Then update this directory with the new files generated.
+* All weather intermediary csv/files are present in the stinky/weather_data/weather_intermediary_files. If the raw pod data is updated, please run the weather_datasets.ipynb notebook to regenerate these files. Then update this directory with the new files generated.
 
-1. Files for personal download (this notebook will autmatically download the weather group's data sets - just run to download. These files do not need to moved to the repo - they can used for personal analyses). These files are also present in the directiory weather_data/intermediary_files/
+1. Files for download (this notebook will autmatically download the weather group's data sets/ all the weather intermediary files - just run to download). This notebook can be used to generate the intermediary files present in the weather_data/weather_intermediary_files directory. Please run this notebook if the any updates are made to the weather_data/pod_raw_data directory. Then use the generated files to replace the files in weather_data/weather_intermediary_files 
 * [weather_datasets.ipynb](https://github.com/ds5110/stinky/blob/master/weather_datasets.ipynb)
 
-2. This notebook contains the visualizations and analyses performed by the weather team - weather feature plots over time, weather and complaint quantity analysis and visualization, logistic modeling, etc. Text descriptions are included. This notebook may take 2-3 minutes to completely run as the visualizations are working with a large amount of data points.
+2. This notebook contains the visualizations and analyses performed by the weather team - weather feature plots over time, weather and complaint quantity analysis and visualization, logistic modeling, etc. Text descriptions are included. This notebook may take 2-3 minutes to completely run as the visualizations are working with a large amount of data points. Every time this notebook is run any updates to the raw data files will be reflected in the notebook. Be aware that updating the raw files may change the conclusions of the analysis as new data may make our current conclusions obsolete.
 * [Weather_Team_Analysis_Notebook.ipynb](https://github.com/ds5110/stinky/blob/master/Weather_Team_Analysis_Notebook.ipynb)
 
 
 ### Data files - description of data folders and individual file names
 
-1. Data folders
-* data: contains raw data (csv files) of smell data (from SmellMyCity and SeeClickFix), and tidied csv files merging raw smell data and oil vessels data
-* vessels_data_raw: contains raw data (csv files) for data tracking oil vessel passages through Portland
-* weather_data_raw: contains raw data (csv files) for weather data
+1. Parent data folders
+* smell_data: contains raw data (csv files) of smell data (from SmellMyCity and SeeClickFix), and tidied csv files merging raw smell data and oil vessels data
+* vessels_data: contains raw data (csv files) for data tracking oil vessel passages through Portland
+* weather_data: contains raw data (csv files) for weather data
 
-2. Data files
-* df_stinky.csv: this file is the tidied and merged file containing odor complaints from both SmellMyCity(smc.csv) and SeeCLickFix(scf.csv). This file is used for all other analytical notebooks and further analysis.
-* df_vessels.csv: this file is the tidied and merged file containing oil vessels data for year 2020 (2020 SMRO VESSEL ARRIVALS.csv) and year 2021 (2021 SMRO VESSEL ARRIVALS.csv). This file is used for all other analytical notebooks and further analysis.
-* huggingface_results.csv: results from a model run in text_analysis.ipynb. The model takes ~30 minutes to run; results were downloaded and loaded into huggingface_results.ipynb for easy reference. To update with new data in df_stinky and download: see instructions in text_analysis.ipynb.
-* scf.csv: it is the original file with odor complaints from SmellMyCity
-* smc.csv: it is the original file with odor complaints from SeeClickFix
-* 2020 SMRO VESSEL ARRIVALS.csv: it is the original file containing all of oil vessels data for year 2020 
-* 2021 SMRO VESSEL ARRIVALS.csv: it is the original file containing all of oil vessels data for year 2021
+2. Raw data folders and files
+* smell_data/smell_raw_data
+  * scf.csv: it is the original file with odor complaints from SmellMyCity
+  * smc.csv: it is the original file with odor complaints from SeeClickFix
+* vessels_data/vessels_raw_data
+  * 2020 SMRO VESSEL ARRIVALS.csv: it is the original file containing all of oil vessels data for year 2020 
+  * 2021 SMRO VESSEL ARRIVALS.csv: it is the original file containing all of oil vessels data for year 2021
+* weather_data/pod_raw_data
+  * SMRO3_2019-07-24_2021-07-24.csv : Raw data from pod SMRO3, replace this file when updating raw files
+  * SMRO4_2020-11-14_2021-07-24.csv :  Raw data from pod SMRO4, replace this file when updating raw files
+  * SMRO5_2021-01-20_2021-07-24.csv :  Raw data from pod SMRO5, replace this file when updating raw files
+  * SMRO6_2020-11-04_2021-07-24.csv :  Raw data from pod SMRO6, replace this file when updating raw files
+  * SMRO7_2020-11-04_2021-07-24.csv :  Raw data from pod SMRO7, replace this file when updating raw files
+
+3. Intermediary data folders and files
+* smell_data/smell_intermediary_files
+   * df_stinky.csv: this file is the tidied and merged file containing odor complaints from both SmellMyCity(smc.csv) and SeeCLickFix(scf.csv). This file is used for all other analytical notebooks and further analysis.
+   * huggingface_results.csv: results from a model run in text_analysis.ipynb. The model takes ~30 minutes to run; results were downloaded and loaded into huggingface_results.ipynb for easy reference. To update with new data in df_stinky and download: see instructions in text_analysis.ipynb.
+* vessels_data/vessels_intermediary_files
+   * df_vessels.csv: this file is the tidied and merged file containing oil vessels data for year 2020 (2020 SMRO VESSEL ARRIVALS.csv) and year 2021 (2021 SMRO VESSEL ARRIVALS.csv). This file is used for all other analytical notebooks and further analysis.
+* weather_data/weather_intermediary_files
+  * df_master_weather : The complilation of raw pod measurement, just concatenating them.
+  * df_weather_master_outliers_removed: The same as df_weather_master but SMRO4 data is removed.
+  * df_complaints: A dataframe that groups the total complaints by hour and aggregates the complaints by sum.
+  * df_merged : A dataframe that groups measurements by the hour and merges the dataframe with the complaints. Weather values are aggregated by average and complaint totals are aggregated by sum.
+  * df_model_analysis: a dataframe used for logistic regression analysis
 
 ## Project Idea: This Stinks
 
