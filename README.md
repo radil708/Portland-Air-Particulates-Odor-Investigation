@@ -1,4 +1,19 @@
-test
+This forked-off repo aims to showcase my work to potential employers.
+
+In particular, my team contributed to the weather-odor investigation.
+The file: Geo_team.ipnyb showcases the complete code I worked on.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Features:
+        - Data tidying
+        - Data processing
+        - Statistical Analyses
+        - Data Visualization
+        
+-------------------------------------------------------------------------------------------------------------------------
+See info below for more comprehensive project description
+
 # stinky
 
 ## Northeastern University student projects
